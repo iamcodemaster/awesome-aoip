@@ -64,3 +64,6 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 - [Curated Web Page](https://aes67.app/resources) - Read-only "curated list of AES67 resources" by Philipp Hartung.
 - [Awesome Audiovisual](https://github.com/stingalleman/awesome-audiovisual) - AV list containing a little AoIP.
 - [Awesome Broadcasting](https://github.com/ebu/awesome-broadcasting) - EBU list containing a little AoIP.
+
+
+* [Remove audio from video](https://remove-audio.com) - Free, browser-based audio remover. Local processing via WebAssembly. No signup, no watermarks. Batch up to 20 clips.
